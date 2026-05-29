@@ -4,7 +4,10 @@
 
 About the Project
 
-Netflix offers thousands of movies and TV shows across different genres, countries, and audience groups. In this project, I analyzed Netflix’s content catalog to understand content trends, audience targeting, regional distribution, and content growth over time. The goal was to understand Netflix’s content strategy through data and derive meaningful business insights from it.
+Netflix offers thousands of movies and TV shows across different genres, countries, and audience groups. 
+In this project, I analyzed Netflix’s content catalog to understand content trends, audience targeting, regional distribution, and content growth over time. 
+The goal was to understand Netflix’s content strategy through data and derive meaningful business insights from it.
+
 Along with exploratory data analysis, I also built a simple recommendation system that suggests similar titles based on their genres and descriptions.
 
 
